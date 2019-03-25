@@ -38,4 +38,13 @@ None of these are taught well at uni, but they're essential to making things (mo
 Melb Uni PotterHeads and Cosmic Hitchikers' Appreciation Society are both good. Tabletop club is also really fun.
 The Cheese club is pretty good too.
 
-5. Come to Tutes. Pls
+5. Subscribe to TheRegister.co.uk and other reputable tech news.
+
+The Register is a mostly-security-based newspaper that reports on dumb-stuff-companies-did. It's pretty funny, and will inform you of what's going on in the cyber-sec world -- and that affects all of us.
+It's free, they send you an email once a week, 100% worth.
+
+6. Use a Password Manager.
+
+They're not that expensive. They'll save you time and headaches. I use 1Password, it's pretty good.
+
+7. Come to Tutes. Pls
