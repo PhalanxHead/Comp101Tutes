@@ -30,6 +30,7 @@ Don't forget that you're not just at uni/college to make connections though.
   - Javascripy and Angular
   - Bash
   - Docker
+  
 None of these are taught well at uni, but they're essential to making things (mostly).
 
 4. JOIN A CLUB AND GO TO EVENTS
