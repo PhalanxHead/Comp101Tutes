@@ -25,7 +25,7 @@ Don't forget that you're not just at uni/college to make connections though.
 3. Here's a list of handy skills to learn while you have the time:
   - Git
   - LaTeX
-  - Writimg Documentation
+  - Writing Documentation
   - C# and Entity Framework
   - Javascripy and Angular
   - Bash
